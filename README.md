@@ -1,4 +1,4 @@
-# Login-Registration-With-Mongo-DB
+# Login-Registration-With-Mongo-DB - LoginHub
 <h1 align="center">🔐 Login & Registration Project</h1>  
 
 <p align="center">
@@ -17,8 +17,7 @@
 ---
 
 ## 🌐 Live Demo  
-👉 Check out the live app on Netlify:  
-[login-reg-portal.netlify.app](https://login-reg-portal.netlify.app)
+👉 Check out the live app on Netlify:  [LoginHub](https://login-reg-portal.netlify.app)
 
 ---
 
